@@ -7,12 +7,9 @@ hero:
   text: "为各平台的 Mod 信息缓存加速"
   tagline: My great project tagline
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /docs/markdown-examples
     - theme: alt
-      text: API Examples
-      link: /docs/api-examples
+      text: API文档
+      link: /docs/api
 
 features:
   - title: Feature A
