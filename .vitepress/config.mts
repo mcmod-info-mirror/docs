@@ -20,7 +20,7 @@ export default defineConfig({
       }
     ],
     footer: {
-      message: '<a href="https://icp.gov.moe/?keyword=20244004" target="_blank">萌ICP备20244004号</a>',
+      message: '<a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023021309号-4</a> <br /> <a href="https://icp.gov.moe/?keyword=20244004" target="_blank">萌ICP备20244004号</a>',
       copyright: 'Copyright © 2024-present</a>'
     },
 
