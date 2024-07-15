@@ -19,6 +19,10 @@ export default defineConfig({
         ]
       }
     ],
+    footer: {
+      message: '<a href="https://icp.gov.moe/?keyword=20244004" target="_blank">萌ICP备20244004号</a>',
+      copyright: 'Copyright © 2024-present</a>'
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/mcmod-info-mirror' }
