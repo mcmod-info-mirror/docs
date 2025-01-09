@@ -6,6 +6,7 @@ export default defineConfig({
   description: "为各平台的 Mod 信息缓存加速",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: 'https://avatars.githubusercontent.com/u/159989460',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'API文档', link: 'https://mod.mcimirror.top/docs' }
