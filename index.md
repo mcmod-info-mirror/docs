@@ -18,7 +18,7 @@ API 支持 [Curseforge](https://curseforge.com/) 和 [Modrinth](https://modrinth
 
 ### Modrinth
 
-- `api.modrinth.com` or `staging-api.modrinth.com` -> `mod.mcimirror.top/modrinth`
+- `api.modrinth.com` -> `mod.mcimirror.top/modrinth`
 - `cdn.modrinth.com` -> `mod.mcimirror.top`
 
 ### Curseforge
