@@ -10,3 +10,22 @@ hero:
     - theme: alt
       text: API文档
       link: https://mod.mcimirror.top/docs
+---
+
+## Getting Started
+
+API 支持 [Curseforge](https://curseforge.com/) 和 [Modrinth](https://modrinth.com/)，你可以直接替换 URL。
+
+### Modrinth
+
+- `api.modrinth.com` or `staging-api.modrinth.com` -> `mod.mcimirror.top/modrinth`
+- `cdn.modrinth.com` -> `mod.mcimirror.top`
+
+### Curseforge
+
+- `api.curseforge.com` -> `mod.mcimirror.top/curseforge`
+- `edge.forgecdn.net` or `mediafilez.forgecdn.net` -> `mod.mcimirror.top`
+
+你可以在 [API文档](https://mod.mcimirror.top/docs) 看到所有支持的 API 接口。
+
+---
