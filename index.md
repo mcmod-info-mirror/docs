@@ -5,18 +5,8 @@ layout: home
 hero:
   name: "McMod Info Mirror"
   text: "为各平台的 Mod 信息缓存加速"
-  tagline: My great project tagline
+  tagline: 致力于改善用户体验
   actions:
     - theme: alt
       text: API文档
-      link: /docs/api
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
+      link: https://mod.mcimirror.top/docs
