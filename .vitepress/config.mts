@@ -8,14 +8,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'API文档', link: '/docs/index' }
+      { text: 'API文档', link: 'https://mod.mcimirror.top/docs' }
     ],
 
     sidebar: [
       {
-        text: 'Default',
+        text: 'MCIM',
         items: [
-          { text: '总览', link: '/docs/index' }
+          { text: '简介', link: '/docs/index' }
         ]
       }
     ],
